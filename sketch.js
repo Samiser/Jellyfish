@@ -6,7 +6,7 @@ function setup() {
 	jaz.setup();
 	sam.setup();
 	
-	jaz.token = 1;
+	jaz.token = 0;
 	sam.token = 1;
 	
 	sam.offset = 0.015

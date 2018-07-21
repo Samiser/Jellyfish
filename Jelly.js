@@ -1,7 +1,7 @@
 function Jelly() {
 	this.token;
 
-	this.dotRows = 7;
+	this.dotRows = 17;
 	this.dotCols = 5;
 
 	this.dotArray = [];

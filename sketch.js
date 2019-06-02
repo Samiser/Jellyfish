@@ -4,9 +4,8 @@ function setup() {
 	createCanvas(windowWidth, windowHeight);
 	sam.setup();
 	
-	sam.token = 1;
-	
-	sam.offset = 0.015
+	sam.token = 0;
+	//sam.offset = 0.015
 }
 
 function draw() {
